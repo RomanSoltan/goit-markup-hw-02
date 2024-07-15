@@ -100,12 +100,8 @@ body {
 .team-section {
   background-color: #f4f4fd;
 }
-.team-list {
-}
 .team-item {
   background-color: #ffffff;
-}
-.team-image {
 }
 .team-title {
   font-weight: 500;
@@ -120,3 +116,32 @@ body {
   letter-spacing: 0.02em;
 }
 /*===== Team end ====== */
+
+/*===== Portfolio start ====== */
+.portfolio-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.portfolio-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+/*===== Portfolio end ====== */
+
+/*===== Page Footer start ====== */
+.page-footer {
+  background-color: #2e2f42;
+}
+
+.c-white {
+  color: #f4f4fd;
+}
+.footer-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+/*===== Page Footer end ====== */
