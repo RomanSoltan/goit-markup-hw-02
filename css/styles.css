@@ -46,15 +46,15 @@ body {
 
 /*===== Hero start ====== */
 .hero-section {
-  background: #2e2f42;
+  background-color: #2e2f42;
 }
 .title {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #fff;
+  color: #ffffff;
 }
 .button {
   font-family: "Roboto", sans-serif;
@@ -62,7 +62,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: #fff;
+  color: #ffffff;
   background-color: #4d5ae5;
   cursor: pointer;
 }
