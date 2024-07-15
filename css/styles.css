@@ -4,6 +4,16 @@ body {
   background-color: #ffffff;
 }
 
+.section-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  text-transform: capitalize;
+}
+
 /*===== Page Header start ====== */
 .logo {
   font-family: "Raleway", sans-serif;
@@ -70,5 +80,43 @@ body {
 .button:focus {
   background-color: #404bbf;
 }
-
 /*===== Hero end ====== */
+
+/*===== Benefits start ====== */
+.benefits-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.benefits-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+/*===== Benefits end ====== */
+
+/*===== Team start ====== */
+.team-section {
+  background-color: #f4f4fd;
+}
+.team-list {
+}
+.team-item {
+  background-color: #ffffff;
+}
+.team-image {
+}
+.team-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+
+  color: #2e2f42;
+}
+.team-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+/*===== Team end ====== */
