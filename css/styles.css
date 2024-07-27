@@ -5,7 +5,6 @@ body {
 }
 
 .section-title {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -38,16 +37,16 @@ body {
 
 .menu-link:hover,
 .menu-link:focus,
-.contact-link:hover,
-.contact-link:focus {
+.contacts-link:hover,
+.contacts-link:focus {
   color: #404bbf;
 }
 
-.contact-block {
+.contacts {
   font-style: normal;
 }
 
-.contact-link {
+.contacts-link {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
@@ -58,8 +57,7 @@ body {
 .hero-section {
   background-color: #2e2f42;
 }
-.title {
-  font-weight: 700;
+.hero-title {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -83,7 +81,7 @@ body {
 /*===== Hero end ====== */
 
 /*===== Benefits start ====== */
-.benefits-title {
+.benefits-subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -103,7 +101,7 @@ body {
 .team-item {
   background-color: #ffffff;
 }
-.team-title {
+.team-subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -118,7 +116,7 @@ body {
 /*===== Team end ====== */
 
 /*===== Portfolio start ====== */
-.portfolio-title {
+.portfolio-subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
